@@ -1,0 +1,9 @@
+Date ,Particulars,Ref No./Cheque No,Transaction Type,Debit,Credit,Balance,,,,
+01-10-2024,Payment from Client A,REF12345,Credit,0,5000,5000,,,,
+02-10-2024,Payment from Client A,REF12346,Credit,0,8000,13000,,,,
+03-10-2024,Payment from Client A,REF12347,Credit,4000,0,9000,,,,
+04-10-2024,Payment from Client A,REF12348,Credit,0,7000,16000,,,,
+05-10-2024,Payment from Client A,REF12349,Credit,2000,0,14000,,,,s
+06-10-2024,Payment from Client A,REF12350,Credit,0,5000,20000,,,,
+07-10-2024,Payment from Client A,REF12351,Credit,0,100000,120000,,,,
+,,,Total,6000,125000,197000,,,,
